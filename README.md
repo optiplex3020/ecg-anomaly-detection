@@ -31,5 +31,5 @@ Un système de prédiction embarqué dans un dispositif Holter ECG peut identifi
 
 ---
 
-✅ Projet réalisé par : [Ton nom ici]  
+✅ Projet réalisé par : Dylan ELENGA
 📅 Année universitaire 2024–2025
